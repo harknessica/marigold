@@ -20,7 +20,7 @@
       "outputPath": "/Users/jessicaharkness/Projects/marigold/marigold/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jessicaharkness/.config/NuGet/NuGet.Config"
+        "/Users/jessicaharkness/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
